@@ -91,16 +91,5 @@ npm run dev
    - Membandingkan harga dengan data historis
    - Menghasilkan rekomendasi
 
-## Kontribusi
 
-Kami sangat menghargai kontribusi dari komunitas. Jika Anda ingin berkontribusi:
-
-1. Fork repositori
-2. Buat branch fitur (`git checkout -b fitur-baru`)
-3. Commit perubahan (`git commit -am 'Menambahkan fitur baru'`)
-4. Push ke branch (`git push origin fitur-baru`)
-5. Buat Pull Request
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
+Proyek ini dikembangkan untuk kebutuhan Gov AI Hackathon Kemenkeu 2024 
