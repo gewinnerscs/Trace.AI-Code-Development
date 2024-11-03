@@ -5,7 +5,7 @@ Trace.AI adalah sistem analisis pengadaan cerdas yang membantu organisasi mengot
 1. Aplikasi web yang dibangun dengan Next.js
 2. Model pembelajaran mesin yang dikembangkan di Jupyter Notebook menggunakan Google Vertex AI Gemini
 
-## Struktur Proyek
+## Proyek Stucture
 
 ```
 trace.ai/
