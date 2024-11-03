@@ -16,7 +16,7 @@ trace.ai/
 │   ├── components/
 │   └── ...
 └── Trace.AI Model/         # Model Pembelajaran Mesin
-    └── Trace AI Model.ipynb
+    └── Trace AI Model Development.ipynb
 ```
 
 ## Fitur
